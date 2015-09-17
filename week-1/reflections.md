@@ -25,3 +25,11 @@ rm- remove a file
 help- information about commands
 
 ## 1.4 Forking and Cloning
+
+It's really simple and straight forward to create, fork and clone a repo. To create, you simply go to your GitHub account and on the top right of your page should be a "+" sign. simply click and select "New Repository". 
+
+To fork a repository, you simply go to an existing repo and on the top right of the page should be a fork tab. Simply proceed to clicking it and select your account where you wish to fork it to.
+
+Now to clone a repo you simply go to the repo you want cloned and find where the https clone url is on the page (which is on the right side of the page) and copy the link. You then proceed to go to your terminal and type in; git clone (paste link here). 
+
+The main reason for forking a repo as opposed to creating a new one is that, when you fork it, you can make changes and elaborate on an existing file without affecting the original. When creating a repo, you are simply starting from scratch.
