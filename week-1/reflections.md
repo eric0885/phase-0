@@ -32,4 +32,4 @@ To fork a repository, you simply go to an existing repo and on the top right of 
 
 Now to clone a repo you simply go to the repo you want cloned and find where the https clone url is on the page (which is on the right side of the page) and copy the link. You then proceed to go to your terminal and type in; git clone (paste link here). 
 
-The main reason for forking a repo as opposed to creating a new one is that, when you fork it, you can make changes and elaborate on an existing file without affecting the original. When creating a repo you are simply starting from scratch.
+The main reason for forking a repo as opposed to creating a new one is that, when you fork it, you can make changes and elaborate on an existing file without affecting the original. When creating a repo, you are simply starting from scratch.
